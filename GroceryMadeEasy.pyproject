@@ -1,0 +1,18 @@
+{
+    "files": [
+        "UserInfo.txt",
+        "dllSubDirectory/dynaimc.dll",
+        "groceryLogo.png",
+        "loginCustomHeader.h",
+        "loginManagementModule.py",
+        "loginOperationsource.c",
+        "loginPage.qml",
+        "logo.png",
+        "main.py",
+        "main.qml",
+        "popuplogos/errormessage.png",
+        "popuplogos/loginsucess.png",
+        "popuplogos/register.png",
+        "registerPage.qml"
+    ]
+}
